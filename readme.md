@@ -1375,6 +1375,7 @@ Subband data (0xff03) of lossy CR3 are LL3, HL3, LH3, HH3, HL2, LH2, HH2, HL1, L
 | 0x80000516 | Canon EOS R50 V | 26/03/2025 | APS-C | CMOS |DigicX |
 | 0x40000227 | Canon EOS C50 | 9/09/2025 | FF | CMOS |Digic DV7 |
 | 0x80000518 | Canon EOS R6 Mark III | 06/11/2025 | FF | CMOS |DigicX |
+| 0x80000517 | Canon EOS R6V| 13/05/2026 | FF | CMOS |DigicX |
  
 ## Samples 
 
